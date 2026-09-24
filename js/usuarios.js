@@ -88,3 +88,4 @@ async function excluirUsuario(id) {
         alert('Erro ao excluir usuário')
     }
 }
+let nome
